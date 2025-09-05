@@ -18,7 +18,7 @@
     - continue - register
 - App Store Connect
   - Apps
-    - +
+    - ```+```
       - iOS
       - Nome
       - Portuguese (Brazil)
@@ -49,7 +49,7 @@
     - acessar o apple developer
       - Certificates, IDs & Profiles
         - Devices
-          - +
+          - ```+```
             - Device Name
             - Device ID (UDID)
             - Continue
